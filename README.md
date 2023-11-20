@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sovann Vin</h1>
 <h3 align="center">A passionate backend developer from Cambodia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=error404100230&label=Profile%20views&color=0e75b6&style=flat" alt="error404100230" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error404100230" alt="error404100230" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/error404100230" target="blank"><img src="https://img.shields.io/twitter/follow/error404100230?logo=twitter&style=for-the-badge" alt="error404100230" /></a> </p>
-
 - 🔭 I’m currently working on WING BANK MOBILE APP **WING BANK MOBILE APP**
 
 - 👯 I’m looking to collaborate on ANY PROJECT **ANY PROJECT**
@@ -20,27 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://dev.to/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://twitter.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://codesandbox.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://kaggle.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://fb.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://instagram.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://dribbble.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://hashnode.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://medium.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/error404100230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="https://discord.gg/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="error404100230" height="30" width="40" /></a>
-<a href="/error404100230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="error404100230" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
